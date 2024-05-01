@@ -14,8 +14,8 @@ For generating facts, run this notebook: CrsisFACTS.ipynb
 See CrisisFACTS utilities repository for getting evaluation code: github.com/crisisfacts/utilities
 
 # How to cite
-@misc{irlabiitbhu,
-  author = {Amit Yadav, Sukomal Pal},
-  title = {Facts Summarization at the TREC 2023: IIT(BHU) in CrisisFACTs Track},
-  year = {2023}
-}
+  @misc{irlabiitbhu,
+    author = {Amit Yadav, Sukomal Pal},
+    title = {Facts Summarization at the TREC 2023: IIT(BHU) in CrisisFACTs Track},
+    year = {2023}
+  }
